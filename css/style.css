@@ -79,10 +79,10 @@ button i{
 .blogs{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-   
+    grid-gap: 0px;
     /* margin-left: 180px;
     margin-right: 180px; */
-    padding: 5px;
+    padding: 90px;
     place-items: center;
 }
 .player p{
