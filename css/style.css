@@ -254,6 +254,7 @@ input {
         display: none;
     }
     .nav-mobile{
+        display: block;
         font-size: 16px;
         color: cornsilk;
         padding-left: 16px;
